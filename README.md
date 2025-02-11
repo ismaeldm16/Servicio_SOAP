@@ -7,5 +7,5 @@ Esto es un ejercicio que realicé para clase que consta de 3 partes:
 # Tecnologías utilizadas
 * PHP 8+
 * HTML
-* Tailwind CSS
-* AJAX
+* JavaScript
+
